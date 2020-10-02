@@ -1,0 +1,13 @@
+C:\Users\bhz_ema\source\repos\Estrattore Casuale 3IC\Estrattore Casuale 3IC\bin\Debug\netcoreapp3.1\Estrattore Casuale 3IC.exe
+C:\Users\bhz_ema\source\repos\Estrattore Casuale 3IC\Estrattore Casuale 3IC\bin\Debug\netcoreapp3.1\Estrattore Casuale 3IC.deps.json
+C:\Users\bhz_ema\source\repos\Estrattore Casuale 3IC\Estrattore Casuale 3IC\bin\Debug\netcoreapp3.1\Estrattore Casuale 3IC.runtimeconfig.json
+C:\Users\bhz_ema\source\repos\Estrattore Casuale 3IC\Estrattore Casuale 3IC\bin\Debug\netcoreapp3.1\Estrattore Casuale 3IC.runtimeconfig.dev.json
+C:\Users\bhz_ema\source\repos\Estrattore Casuale 3IC\Estrattore Casuale 3IC\bin\Debug\netcoreapp3.1\Estrattore Casuale 3IC.dll
+C:\Users\bhz_ema\source\repos\Estrattore Casuale 3IC\Estrattore Casuale 3IC\bin\Debug\netcoreapp3.1\Estrattore Casuale 3IC.pdb
+C:\Users\bhz_ema\source\repos\Estrattore Casuale 3IC\Estrattore Casuale 3IC\obj\Debug\netcoreapp3.1\Estrattore Casuale 3IC.csprojAssemblyReference.cache
+C:\Users\bhz_ema\source\repos\Estrattore Casuale 3IC\Estrattore Casuale 3IC\obj\Debug\netcoreapp3.1\Estrattore Casuale 3IC.AssemblyInfoInputs.cache
+C:\Users\bhz_ema\source\repos\Estrattore Casuale 3IC\Estrattore Casuale 3IC\obj\Debug\netcoreapp3.1\Estrattore Casuale 3IC.AssemblyInfo.cs
+C:\Users\bhz_ema\source\repos\Estrattore Casuale 3IC\Estrattore Casuale 3IC\obj\Debug\netcoreapp3.1\Estrattore Casuale 3IC.csproj.CoreCompileInputs.cache
+C:\Users\bhz_ema\source\repos\Estrattore Casuale 3IC\Estrattore Casuale 3IC\obj\Debug\netcoreapp3.1\Estrattore Casuale 3IC.dll
+C:\Users\bhz_ema\source\repos\Estrattore Casuale 3IC\Estrattore Casuale 3IC\obj\Debug\netcoreapp3.1\Estrattore Casuale 3IC.pdb
+C:\Users\bhz_ema\source\repos\Estrattore Casuale 3IC\Estrattore Casuale 3IC\obj\Debug\netcoreapp3.1\Estrattore Casuale 3IC.genruntimeconfig.cache

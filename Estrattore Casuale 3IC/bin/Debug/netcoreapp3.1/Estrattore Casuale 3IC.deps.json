@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Estrattore Casuale 3IC/1.0.0": {
+        "runtime": {
+          "Estrattore Casuale 3IC.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Estrattore Casuale 3IC/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
